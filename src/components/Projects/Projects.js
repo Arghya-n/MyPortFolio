@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify} // Using existing images as placeholders
               title="Taxinument"
               description="Intelligent Financial Document Preparation system using RAG (Retrieval-Augmented Generation). Built with Python, FastAPI, and LangChain to enable accurate querying of financial documents using vector databases and LLMs."
-              ghLink="https://github.com/Arghya-n/Taxinument"
+              ghLink="https://github.com/Arghya-n/Tax-Assistant"
             />
           </Col>
 
@@ -35,7 +35,7 @@ function Projects() {
               imgPath={bitsOfCode}
               title="Task Tracker System"
               description="A robust task management platform for software engineers. Implemented using ASP.NET Core and React with Clean Architecture, CQRS, and Repository Patterns. Achieved top rank on .NET leaderboards."
-              ghLink="https://github.com/Arghya-n/Task-Tracker"
+              ghLink="https://github.com/Arghya-n/dev-4545"
             />
           </Col>
 
@@ -44,7 +44,7 @@ function Projects() {
               imgPath={editor}
               title="Connect_CUET"
               description="A full-stack alumni networking platform for CUET students. Features include discussion forums, job postings, and event management. Built with PHP, MySQL, and Bootstrap with a dynamic CMS."
-              ghLink="https://github.com/Arghya-n/Connect_CUET"
+              ghLink="https://github.com/Arghya-n/Connect-CUET"
             />
           </Col>
 
@@ -53,7 +53,7 @@ function Projects() {
               imgPath={suicide}
               title="Concurrent Queue Simulation"
               description="Advanced multithreaded simulation of Bank and Grocery queue systems. Developed in Java using locks and semaphores to achieve zero deadlocks and demonstrate complex concurrency concepts."
-              ghLink="https://github.com/Arghya-n/Queue-Simulation"
+              ghLink="https://github.com/Arghya-n/Bank-Queue-Grocery-Queue"
             />
           </Col>
         </Row>

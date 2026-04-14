@@ -32,7 +32,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/nazmus-sakib/"
+                href="https://www.linkedin.com/in/nazmus-sakib-a9b7401a0/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -42,7 +42,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://scholar.google.com/citations?user=YOUR_ID_HERE"
+                href="https://scholar.google.com/citations?user=6MSjnx8AAAAJ&hl=en"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
