@@ -82,7 +82,7 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://scholar.google.com/citations?user=YOUR_ID_HERE"
+                  href="https://scholar.google.com/citations?user=6MSjnx8AAAAJ&hl=en"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
